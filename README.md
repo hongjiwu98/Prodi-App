@@ -3,4 +3,4 @@
 
 안드로이드 앱 - Kotlin 개발 <br>
 
-<img width="325" alt="logo" src="https://user-images.githubusercontent.com/43091713/92487999-f74f3b80-f228-11ea-8dce-44b4fda9918e.png">
+<img width="260" alt="Logo" src="https://user-images.githubusercontent.com/43091713/92488532-a429b880-f229-11ea-86f3-7024a19c3b40.png">
